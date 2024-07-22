@@ -1,0 +1,10 @@
+.blog-1 {
+    padding: 15px 55px;
+
+    img {
+        width: 100%; /* Cambiado width: 300px a width: 100% para hacer la imagen responsive */
+        height: 200px; /* Mantener la altura fija */
+        border-radius: 15px;
+        margin-bottom: 15px;
+    }
+}
