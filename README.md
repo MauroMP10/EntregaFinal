@@ -18,10 +18,11 @@ Vortex es un sitio web enfocado en el mundo fitness. Ofrecemos una amplia gama d
 - Bootstrap 5
 - SCSS
 
+<p>
+Saludos
+</p>
+
 ###Clona el repositorio
  ```sh
     git clone https://github.com/MauroMP10/PF_Maldonado.git
     ```
-<p>
-Espero les sea de utilidad.
-</p>
